@@ -1,5 +1,5 @@
 ---
-title: "سلام دنیا"
+title: "اسلام شناسی"
 draft: false
 tags:
   - درباره من
