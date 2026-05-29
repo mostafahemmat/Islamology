@@ -291,8 +291,8 @@ const colorPalettes = {
       tertiary: "#00FFFF",
       highlight: "rgba(255, 0, 255, 0.2)",
       textHighlight: "#FFFF00A0",
+colors: selectedPalette,
     },
-  },
   sunset: {
     // Replaces sunsetVibes
     lightMode: {
