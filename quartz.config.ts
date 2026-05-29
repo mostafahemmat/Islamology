@@ -444,9 +444,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "IranSans",
-        body: "IranSans",
-        code: "IranSans",
+        header: "Vazirmatn",
+        body: "Vazirmatn",
+        code: "Vazirmatn",
       },
       colors: selectedPalette,
     },
