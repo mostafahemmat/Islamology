@@ -18,9 +18,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Sahel",
-        body: "Sahel",
-        code: "Sahel",
+        header: "Vazirmatn",
+        body: "Vazirmatn",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
