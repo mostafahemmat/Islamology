@@ -291,8 +291,8 @@ const colorPalettes = {
       tertiary: "#00FFFF",
       highlight: "rgba(255, 0, 255, 0.2)",
       textHighlight: "#FFFF00A0",
-colors: selectedPalette,
     },
+  },
   sunset: {
     // Replaces sunsetVibes
     lightMode: {
@@ -419,7 +419,7 @@ colors: selectedPalette,
 // Select your desired palette here
 // Available palettes: original, coolBlues, warmEarth, forestGreen, royalPurple, oceanicTeal, monochrome, vintageCream, devDark, oceanVibes, halloween, neon, sunset, persianAzure, sakuraDreams, cyberpunkCity, autumnGrove
 // type PaletteName = keyof typeof colorPalettes; // This line might cause issues with older TS
-const currentPaletteName: keyof typeof colorPalettes = "original"
+const currentPaletteName: keyof typeof colorPalettes = "forestGreen"
 const selectedPalette = colorPalettes[currentPaletteName]
 
 /**
@@ -444,9 +444,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "sahel",
-        body: "sahel",
-        code: "sahel",
+        header: "Vazirmatn",
+        body: "Vazirmatn",
+        code: "IBM Plex Mono",
       },
       colors: selectedPalette,
     },
