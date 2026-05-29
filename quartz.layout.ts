@@ -1,6 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import NavLinks from "./components/NavLinks"  // <--- خط اضافه شده: ایمپورت کامپوننت ناوبری
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -27,7 +26,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    NavLinks(),  // <--- خط اضافه شده: لینک‌های ناوبری افقی
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
@@ -53,7 +51,6 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    NavLinks(),  // <--- خط اضافه شده: لینک‌های ناوبری افقی برای صفحات لیست
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
