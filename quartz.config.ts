@@ -444,8 +444,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "sahel",
-        body: "sahel",
+        header: "IranSans",
+        body: "IranSans",
         code: "IBM Plex Mono",
       },
       colors: selectedPalette,
