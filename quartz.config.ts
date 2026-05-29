@@ -446,7 +446,7 @@ const config: QuartzConfig = {
       typography: {
         header: "IranSans",
         body: "IranSans",
-        code: "IBM Plex Mono",
+        code: "IranSans",
       },
       colors: selectedPalette,
     },
