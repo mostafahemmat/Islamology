@@ -84,3 +84,13 @@ blockquote {
   padding-left: none;
   transition: border-color 0.2s;
 }
+
+@import url('https://cdn.jsdelivr.net/npm/@alwatr/font@1.2.0/sahel.min.css');
+
+body {
+  font-family: 'Sahel', 'Vazirmatn', 'Tahoma', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Sahel', 'Vazirmatn', 'Tahoma', sans-serif !important;
+}
