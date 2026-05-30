@@ -82,7 +82,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
-      Plugin.Manifest(), // <--- این خط برای فعال‌سازی PWA اضافه شده است
+      Plugin.ManifestPage(), // <--- نام اصلاح شده
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages(),
     ],
