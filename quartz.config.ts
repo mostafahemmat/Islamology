@@ -82,7 +82,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
-      Plugin.ManifestPage(), // <--- نام اصلاح شده
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages(),
     ],
