@@ -51,7 +51,7 @@ title: اسلام‌شناسی
 
 ## 📝 قلم
 
-**یادداشت پیشنهادی:** [[امام کاظم (ع)]] ✨
+**یادداشت پیشنهادی:** [[7 امام کاظم (ع)]] ✨
 
 ---
 
@@ -63,7 +63,7 @@ title: اسلام‌شناسی
 
 ## 🌄 عکس روز
 
-[حرم کاظمین (ع) 🕌](https://github.com/sharh10/islamology/blob/v4/content/assets/nody-%D9%85%D8%AA%D9%86-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%A7%D9%85%D8%A7%D9%85-%D8%AC%D9%88%D8%A7%D8%AF-1635624635.jpg)
+![حرم کاظمین (ع)](https://raw.githubusercontent.com/sharh10/islamology/v4/content/assets/nody-%D9%85%D8%AA%D9%86-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%A7%D9%85%D8%A7%D9%85-%D8%AC%D9%88%D8%A7%D8%AF-1635624635.jpg)
 
 ---
 
